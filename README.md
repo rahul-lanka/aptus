@@ -110,3 +110,10 @@ src/
 - Gemini free-tier quota can return `429` if usage is exhausted.
 - Gemini can return temporary `503` errors during high demand.
 - Scanned image PDFs may not extract text correctly unless OCR is added later.
+
+## Here is the UI
+<img width="1920" height="932" alt="Screenshot_20260623_235654" src="https://github.com/user-attachments/assets/39f0913b-013d-462a-ba09-2a95bfae3033" />
+<img width="1918" height="930" alt="Screenshot_20260623_235719" src="https://github.com/user-attachments/assets/96f6c176-d1c2-4b36-bd50-4904ec05f343" />
+<img width="1920" height="929" alt="Screenshot_20260623_235737" src="https://github.com/user-attachments/assets/3e484c92-b5e2-4a95-be38-c71d8acd659f" />
+<img width="1920" height="932" alt="Screenshot_20260623_235755" src="https://github.com/user-attachments/assets/41402565-7d35-40eb-b339-7bfb2e9045f9" />
+
